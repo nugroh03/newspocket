@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697880885912",
+    "project_id": "newspocket-76c9b",
+    "storage_bucket": "newspocket-76c9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697880885912:android:f8b4a5b68ffbda706daeed",
+        "android_client_info": {
+          "package_name": "com.example.final_project_newspocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697880885912-ioef4dvf9egp6uoj3jeor0nd5gtc9brc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDNjNbI58tEfPHPbldkzDWNZKLXPk1kpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697880885912-ioef4dvf9egp6uoj3jeor0nd5gtc9brc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
